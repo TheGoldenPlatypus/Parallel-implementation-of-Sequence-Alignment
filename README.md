@@ -4,4 +4,4 @@
 Project Description And Instructions:
 
 
-![alt text](https://github.com/TheGoldenPlatypus/Parallel-implementation-of-Sequence-Alignment/blob/master/paralel_readme.png?raw=true)
+![alt text](https://github.com/TheGoldenPlatypus/Parallel-implementation-of-Sequence-Alignment/blob/main/paralel_readme.png?raw=true)
